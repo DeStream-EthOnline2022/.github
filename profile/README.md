@@ -14,7 +14,7 @@
 
 # Service Architecture Diagram
 
-[Service Architecture Diagram](architecture/v1.png)
+![Service Architecture Diagram](architecture/v1.png)
 
 |  Title  |  Address  | Description|
 | ---- | ---- | --- |
