@@ -16,14 +16,16 @@
 
 ![Service Architecture Diagram](architecture/v1.png)
 
-|  Title  |  Address  | Description|
-| ---- | ---- | --- |
-|  TD  |  TD  | TD |
 
+Quick link node: http://quick-loadb-bmwt0sjkitaq-1478310917.us-east-1.elb.amazonaws.com:6688
+Livepeer StreamID: be836105-a3b8-4a15-9dc3-606d76f0c4f2
 
 # How it’s made
-Polygon
-IPFS
-Livepeer
-QuickNode
+Polygon - Our product lives on Polygon.
+
+IPFS - Several cases.NFT(ERC721),Live NFT,web2 integration public data.
+
+LivePeer - Used with LiveScreen at the NFT gateway.
+
+QuickNode -  Our product connect with QuickNode.
 
