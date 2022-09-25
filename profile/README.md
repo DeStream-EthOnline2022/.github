@@ -1,4 +1,4 @@
-## Hi there 👋
+## Destream.
 
 <!--
 
@@ -10,3 +10,20 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+# Service Architecture Diagram
+
+[Service Architecture Diagram](architecture/v1.png)
+
+|  Title  |  Address  | Description|
+| ---- | ---- | --- |
+|  TD  |  TD  | TD |
+
+
+# How it’s made
+Polygon
+IPFS
+Livepeer
+QuickNode
+
