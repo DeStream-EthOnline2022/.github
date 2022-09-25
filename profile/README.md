@@ -24,12 +24,14 @@ Quick link node: http://quick-loadb-bmwt0sjkitaq-1478310917.us-east-1.elb.amazon
 
 Livepeer StreamID: be836105-a3b8-4a15-9dc3-606d76f0c4f2
 
-# How it’s made
-Polygon - Our product lives on Polygon
+## How it’s made
+The tech design is such that various types of data are encryptoed and only users who claim NFT on the client side can descrypt and check private data, and the actual live streaming implementation has been completed.
+As a backend, a Chainlink node is set up to fetch web2API data from the client and convert it to on-chain data by formatting the data.
 
-IPFS - Several cases.NFT(ERC721),Live NFT,web2 integration public data
+DeStream is built with:
 
+Polygon - DeSteam lives on Polygon.
+IPFS - Several cases.NFT(ERC721),Live NFT, web2 integration public data.
 LivePeer - Used with LiveScreen at the NFT gateway.
-
-QuickNode -  Our product connect eth by node on QuickNode.
+QuickNode - Our product connect with QuickNode.
 
